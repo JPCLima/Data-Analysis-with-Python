@@ -7,5 +7,6 @@ Libraries used:
 
 Book:
 "Python for Data Analysis" - Wes Mckinney
+
 Course Udemy:
 "Deep Learning Prerequisites: The Numpy Stack in Python" - Lazy Programmer Inc.
