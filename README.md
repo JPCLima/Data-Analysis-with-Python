@@ -12,4 +12,4 @@ Course Udemy:
 "Deep Learning Prerequisites: The Numpy Stack in Python" - Lazy Programmer Inc.
 
 Data set: 
-(Pokemon with stats)[https://www.kaggle.com/abcsds/pokemon/kernels]
+[Pokemon with stats](https://www.kaggle.com/abcsds/pokemon/kernels)
